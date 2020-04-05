@@ -10,6 +10,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import com.example.obd2portbluetooth.ui.main.SectionsPagerAdapter;
+import com.example.obd2portbluetooth.Obd2Comm;
+import com.example.obd2portbluetooth.BlueToothComm;
 
 public class MainActivity extends AppCompatActivity {
 
