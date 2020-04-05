@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">Obd2PortBluetooth</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="app_name">OBDII BT READER</string>
+    <string name="tab_text_1">Car Data</string>
+    <string name="tab_text_2">Trouble Codes</string>
+    <string name="tab_text_3">O2 Sensor</string>
+    <string name="tab_text_4">Vehicle Info</string>
 </resources>
